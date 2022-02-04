@@ -6,7 +6,7 @@ _To Run Locally:_
 Clone the repository and perform the following command line actions:
 
 ```bash
-$ cd word-guessing-game
+$ cd Word-Game
 $ npm install
 $ npm run start
 ```
